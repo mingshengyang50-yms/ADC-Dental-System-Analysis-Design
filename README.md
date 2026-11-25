@@ -26,4 +26,4 @@
 
 <img src="https://raw.githubusercontent.com/mingshengyang50-yms/ADC-Dental-System-Analysis-Design/afa13671fc8ef48b8a661b21c21f862b9e3e2852/experience/mini-home.png" alt="小程序患者首页" width="225"> <img src="https://raw.githubusercontent.com/mingshengyang50-yms/ADC-Dental-System-Analysis-Design/afa13671fc8ef48b8a661b21c21f862b9e3e2852/experience/mini-booking.png" alt="小程序预约页" width="225">
 
-[课程报告（PDF）](%E4%BF%A1%E7%AE%A1T2401%E7%8F%AD%20%E6%9D%A8%E6%B5%A9%E4%B8%9C%208210242320.pdf)
+[系统分析设计文档（PDF）](%E4%BF%A1%E7%AE%A1T2401%E7%8F%AD%20%E6%9D%A8%E6%B5%A9%E4%B8%9C%208210242320.pdf)
